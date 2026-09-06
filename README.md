@@ -14,13 +14,13 @@ This repository contains a collection of laboratory assignments for the **ARTI45
 
 ## Repository Structure
 
-### [Lab 2: Text Pre-processing and Regular Expressions](NLP-Labs/Lab2/)
+### [Lab 2: Text Pre-processing and Regular Expressions](NLP-labs/Lab2/)
 * **Regular Expressions (Regex):** Utilizing `re.compile()`, `re.split()`, `re.sub()`, `re.search()`, and `re.match()` for pattern matching and text substitution.
 * **Text Preprocessing Pipeline:** Implementing essential steps to clean raw data, including tokenization, lower casing, and handling special characters.
 * **Stemming & Lemmatization:** Applying `PorterStemmer`, `SnowballStemmer`, and `WordNetLemmatizer` to reduce words to their base or dictionary forms.
 * **Stop Words Management:** Removing non-informative words using both NLTK and spaCy, and customizing the stop words list.
 
-### [Lab 3: N-Grams Language Modeling](NLP-Labs/Lab3/)
+### [Lab 3: N-Grams Language Modeling](NLP-labs/Lab3/)
 * **Probabilistic Modeling:** Building a Maximum Likelihood Estimation (MLE) language model.
 * **N-Grams:** Extracting and analyzing sequences using Unigrams, Bigrams, and Trigrams.
 * **Sequence Padding:** Applying start (`<s>`) and end (`</s>`) symbols to normalize sentence lengths for neural networks.
