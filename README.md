@@ -26,6 +26,12 @@ This repository contains a collection of laboratory assignments for the **ARTI45
 * **Sequence Padding:** Applying start (`<s>`) and end (`</s>`) symbols to normalize sentence lengths for neural networks.
 * **Model Evaluation:** Generating text predictions based on Bigram probabilities and evaluating the model's performance using Perplexity.
 
+### [Lab 4: Classification and Evaluation in NLP](NLP-Labs/Lab4/)
+* **Sentiment Analysis Pipeline:** End-to-end text classification on Amazon Unlocked Mobile Phones reviews to categorize sentiments (Positive, Negative, Neutral).
+* **Feature Engineering:** Transforming cleaned text into numerical feature vectors using **TF-IDF Vectorization**.
+* **Machine Learning:** Training a **Naive Bayes Classifier** (`MultinomialNB`) for natural language classification.
+* **Performance Evaluation:** Assessing model accuracy, generating classification reports, and visualizing results using a **Confusion Matrix**.
+
 *(More labs will be added as the course progresses...)*
 
 
