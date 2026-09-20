@@ -11,6 +11,9 @@ This repository contains a collection of laboratory assignments for the **ARTI45
   * `re` (Regular Expressions): For pattern matching, data extraction, and text manipulation.
   * `Pandas`: For data manipulation and handling structured datasets (e.g., CSV files).
   * `emoji`: For handling and cleaning emojis from text data.
+  * `gensim`: For training and utilizing word embedding models (Word2Vec).
+  * `scikit-learn`: For feature extraction (TF-IDF), model training (Naive Bayes, SVM), and performance evaluation.
+  * `Matplotlib`: For data visualization and generating confusion matrices.
 
 ## Repository Structure
 
@@ -31,6 +34,11 @@ This repository contains a collection of laboratory assignments for the **ARTI45
 * **Feature Engineering:** Transforming cleaned text into numerical feature vectors using **TF-IDF Vectorization**.
 * **Machine Learning:** Training a **Naive Bayes Classifier** (`MultinomialNB`) for natural language classification.
 * **Performance Evaluation:** Assessing model accuracy, generating classification reports, and visualizing results using a **Confusion Matrix**.
+
+### [Lab 5: Text Representation](NLP-Labs/Lab5/)
+* **Vectorization & Similarity:** Using `TfidfVectorizer` to convert text into numerical formats and measuring document distance with **Cosine Similarity**.
+* **Word Embeddings:** Training a **Word2Vec (Skip-Gram)** model using `gensim` on a large conversational dataset (The Simpsons script lines).
+* **Semantic Analysis:** Extracting semantic relationships by finding similar words (`most_similar`) and identifying outliers (`doesnt_match`).
 
 *(More labs will be added as the course progresses...)*
 
