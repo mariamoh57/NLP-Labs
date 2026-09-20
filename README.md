@@ -29,13 +29,13 @@ This repository contains a collection of laboratory assignments for the **ARTI45
 * **Sequence Padding:** Applying start (`<s>`) and end (`</s>`) symbols to normalize sentence lengths for neural networks.
 * **Model Evaluation:** Generating text predictions based on Bigram probabilities and evaluating the model's performance using Perplexity.
 
-### [Lab 4: Classification and Evaluation in NLP](NLP-Labs/Lab4/)
+### [Lab 4: Classification and Evaluation in NLP](NLP-labs/Lab4/)
 * **Sentiment Analysis Pipeline:** End-to-end text classification on Amazon Unlocked Mobile Phones reviews to categorize sentiments (Positive, Negative, Neutral).
 * **Feature Engineering:** Transforming cleaned text into numerical feature vectors using **TF-IDF Vectorization**.
 * **Machine Learning:** Training a **Naive Bayes Classifier** (`MultinomialNB`) for natural language classification.
 * **Performance Evaluation:** Assessing model accuracy, generating classification reports, and visualizing results using a **Confusion Matrix**.
 
-### [Lab 5: Text Representation](NLP-Labs/Lab5/)
+### [Lab 5: Text Representation](NLP-labs/Lab5/)
 * **Vectorization & Similarity:** Using `TfidfVectorizer` to convert text into numerical formats and measuring document distance with **Cosine Similarity**.
 * **Word Embeddings:** Training a **Word2Vec (Skip-Gram)** model using `gensim` on a large conversational dataset (The Simpsons script lines).
 * **Semantic Analysis:** Extracting semantic relationships by finding similar words (`most_similar`) and identifying outliers (`doesnt_match`).
