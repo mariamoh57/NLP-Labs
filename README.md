@@ -12,7 +12,7 @@ This repository contains a collection of laboratory assignments for the **ARTI45
  
 ## Labs Directory
 
-| Lab | Topic | Key Concepts | Libraries | Status |
+|  Lab  | Topic | Key Concepts | Libraries | Status |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Lab 2](NLP-labs/Lab2/)** | Text Pre-processing & Regex | Regex, Tokenization, Stemming, Lemmatization, Stop Words | `NLTK`, `spaCy`, `re` | Completed |
 | **[Lab 3](NLP-labs/Lab3/)** | N-Grams Language Modeling | MLE, Bigrams/Trigrams, Sequence Padding, Perplexity | `NLTK`, `Pandas` | Completed |
