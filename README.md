@@ -20,7 +20,8 @@ This repository contains a collection of laboratory assignments for the **ARTI45
 | **[Lab&nbsp;5](NLP-labs/Lab5/)** | Text Representation | TF-IDF, Cosine Similarity, Word2Vec (Skip-Gram) | `gensim`, `scikit-learn` | Completed |
 | **[Lab&nbsp;6](NLP-labs/Lab6/)** | Deep Learning for NLP | Neural Networks, BCEWithLogitsLoss, PyTorch, Word Embeddings | `PyTorch`, `gensim` | Completed |
 | **[Lab&nbsp;7](NLP-labs/Lab7/)** | Large Language Models (LLMs) | Transformer Families, Text Generation (GPT), Summarization (T5), Sentiment (BERT) | `transformers`, `torch` | Completed |
-| **Lab 8** | *To be updated* | - | - | Pending |
+
+| **Lab 10** | *To be updated* | - | - | Pending |
 
 *(More labs will be added as the course progresses...)*
 
