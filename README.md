@@ -22,7 +22,8 @@ This repository contains a collection of laboratory assignments for the **ARTI45
 | **[Lab&nbsp;7](NLP-labs/Lab7/)** | Large Language Models (LLMs) | Transformer Families, Text Generation (GPT), Summarization (T5), Sentiment (BERT) | `transformers`, `torch` | Completed |
 | **[Lab&nbsp;8](NLP-labs/Lab8/)** | Part-of-speech (POS) Tagging | Coarse-grained & Fine-grained POS, Morphology, displaCy Visualization | `NLTK`, `spaCy` | Completed |
 | **[Lab&nbsp;9](NLP-labs/Lab9/)** | Named Entity Recognition (NER) | Entity Detection & Classification, Custom NER Model Training | `spaCy`, `re` | Completed |
-| **Lab 10** | *To be updated* | - | - | Pending |
+| **[Lab&nbsp;10](NLP-labs/Lab10/)** | Introduction to Machine Translation | Encoder-Decoder LSTM, Seq2Seq, Tokenization, Padding Strategies | `tensorflow`, `kagglehub` | Completed |
+| **Lab 11** | *To be updated* | - | - | Pending |
 
 *(More labs will be added as the course progresses...)*
 
