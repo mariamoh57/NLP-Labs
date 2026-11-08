@@ -23,8 +23,8 @@ This repository contains a collection of laboratory assignments for the **ARTI45
 | **[Lab&nbsp;8](NLP-labs/Lab8/)** | Part-of-speech (POS) Tagging | Coarse-grained & Fine-grained POS, Morphology, displaCy Visualization | `NLTK`, `spaCy` | Completed |
 | **[Lab&nbsp;9](NLP-labs/Lab9/)** | Named Entity Recognition (NER) | Entity Detection & Classification, Custom NER Model Training | `spaCy`, `re` | Completed |
 | **[Lab&nbsp;10](NLP-labs/Lab10/)** | Introduction to Machine Translation | Encoder-Decoder LSTM, Seq2Seq, Tokenization, Padding Strategies | `tensorflow`, `kagglehub` | Completed |
-| **[Lab&nbsp;11](NLP-Labs/Lab11/)** | Attention Mechanism | Encoder-Decoder with Attention, PyTorch RNNs, Attention Weights Visualization | `PyTorch`, `Matplotlib` | Completed |
-| **[Lab&nbsp;12](NLP-Labs/Lab12/)** | Transformers | Transformer Architecture, Self-Attention, BERT, Hidden Layers & Attention Heads | `transformers`, `torch` | Completed |
+| **[Lab&nbsp;11](NLP-labs/Lab11/)** | Attention Mechanism | Encoder-Decoder with Attention, PyTorch RNNs, Attention Weights Visualization | `PyTorch`, `Matplotlib` | Completed |
+| **[Lab&nbsp;12](NLP-labs/Lab12/)** | Transformers | Transformer Architecture, Self-Attention, BERT, Hidden Layers & Attention Heads | `transformers`, `torch` | Completed |
 | **Lab 13** | *To be updated* | - | - | Pending |
 
 *(More labs will be added as the course progresses...)*
